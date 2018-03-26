@@ -1,0 +1,2 @@
+image-file-spec(https://storage.googleapis.com/gd-wagtail-prod-assets/original_images/evolving_google_identity_share.jpg)
+image-file-spec(file://C:\Users\Kevin\Documents\Capture.PNG)
